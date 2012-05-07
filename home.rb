@@ -1,5 +1,6 @@
 require 'sinatra'
 require 'sass'
+require 'haml'
 
 set :haml, :format => :html5
 
